@@ -1,0 +1,17 @@
+{
+  "name": "project_01",
+  "version": "1.0.0",
+  "main": "project_01.js",
+  "scripts": {
+    "start": "nodemon project_01"
+  },
+  "author": "Sunil Parmar",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "monitor": "^0.6.10",
+    "node": "^22.12.0",
+    "nodemon": "^3.1.7"
+  }
+}

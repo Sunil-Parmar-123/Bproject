@@ -1,0 +1,9 @@
+1733479172433 GET [object Object] /api/users/100
+1733479351010 GET /api/users/100
+1733479391102 GET /api/users/100
+1733479558283 GET /api/users/100 ::1
+1733479576068 POST /api/users ::1
+1733481042434 POST /api/users ::1
+1733482408685 POST /api/users ::1
+1733483098634 POST /api/users ::1
+1733483266435 GET /api/users/1001 ::1
